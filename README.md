@@ -20,4 +20,4 @@ Folder Inputdata 2 contains:
 - Hyperarameter code
 - Training code
 - Different saved models (3,4,5 an 6 hours forecast)
-- - f1 notebook that can be used to calculate recall, precision and f1 score
+- f1 notebook that can be used to calculate recall, precision and f1 score
